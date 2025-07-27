@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "What does HTML stand for?",
+    option1: "Hyper Trainer Marking Language",
+    option2: "Hyper Text Markup Language",
+    option3: "Hyper Text Marketing Language",
+    option4: "Hyper Tool Multi Language",
+    ans: 2,
+  },
+  {
+    question: "Which programming language is primarily used for web development?",
+    option1: "Python",
+    option2: "Java",
+    option3: "JavaScript",
+    option4: "C++",
+    ans: 3,
+  },
+  {
+    question: "What does 'CPU' stand for?",
+    option1: "Central Process Unit",
+    option2: "Central Programming Unit",
+    option3: "Computer Processing Unit",
+    option4: "Central Processing Unit",
+    ans: 4,
+  },
+  {
+    question: "Which company developed the Windows operating system?",
+    option1: "Apple",
+    option2: "Microsoft",
+    option3: "IBM",
+    option4: "Google",
+    ans: 2,
+  },
+  {
+    question: "What is the main function of RAM in a computer?",
+    option1: "Store permanent data",
+    option2: "Store user passwords",
+    option3: "Perform calculations",
+    option4: "Store temporary data for quick access",
+    ans: 4,
+  },
+];
